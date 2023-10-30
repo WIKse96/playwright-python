@@ -1,0 +1,7 @@
+1. e2e - Ogólne testy strony głównej/kategorii
+2. Test wyszukiwarki
+3. Test przeliczania walut
+4. Test zalogowania
+5. Test tworzenia konta
+6. Test zakupu e2e
+[7]. Testy panelu admina
